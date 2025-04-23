@@ -2,6 +2,19 @@
 ## Master Thesis at Aalborg University
 ## Esbjerg, Denmark 2023-2024
 
+Master's Thesis project focusing on reducing vertical displacement of crane loads on vessels by implementing DRL-based control systems for offshore applications.
+
+## Features
+- Vessel-crane-load modeling using robotic techniques
+- DRL algorithms: DQN, PPO, SAC, DDPG
+- Wave prediction using LSTM and CNN
+- Real-world testing with stereo cameras and Unreal Engine
+
+## Technologies
+- Python (PyTorch, Keras), MATLAB
+- Unreal Engine 5.1
+- WASS stereo camera dataset
+
 ### Structure:
 ```bash
 .
